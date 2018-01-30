@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="861956b5-0960-49d4-93bb-13f96bf84609" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/start.py" afterPath="$PROJECT_DIR$/start.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="start.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding>
                 <element signature="e#390#405#0" expanded="true" />
               </folding>
@@ -29,21 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1650">
-              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <marker date="1517284911684" expanded="true" signature="3378:3407" ph="select title... " />
-                <marker date="1517284911684" expanded="true" signature="4369:4681" ph="select artis... artist" />
-                <marker date="1517284911684" expanded="true" signature="4390:4580" ph="select disti... youtube_music" />
-                <marker date="1517284911684" expanded="true" signature="4484:4579" ph="select disti... youtube_music" />
-                <marker date="1517284911684" expanded="true" signature="4606:4680" ph="select disti... youtube_music" />
-                <marker date="1517284911684" expanded="true" signature="4692:4878" ph="create table... youtube_flat" />
-                <marker date="1517284911684" expanded="true" signature="5568:5634" ph="select chann... youtube_music" />
-                <marker date="1517284911684" expanded="true" signature="6637:6731" ph="select artis... youtube_music" />
+                <marker date="1517285697207" expanded="true" signature="302:405" ph="create table... if" />
+                <marker date="1517285697207" expanded="true" signature="2277:2344" ph="insert into " />
+                <marker date="1517285697207" expanded="true" signature="3275:3304" ph="select title... " />
+                <marker date="1517285697207" expanded="true" signature="4220:4532" ph="select artis... artist" />
+                <marker date="1517285697207" expanded="true" signature="4241:4431" ph="select disti... youtube_music" />
+                <marker date="1517285697207" expanded="true" signature="4335:4430" ph="select disti... youtube_music" />
+                <marker date="1517285697207" expanded="true" signature="4457:4531" ph="select disti... youtube_music" />
+                <marker date="1517285697207" expanded="true" signature="4543:4729" ph="create table... youtube_flat" />
+                <marker date="1517285697207" expanded="true" signature="5419:5485" ph="select chann... youtube_music" />
+                <marker date="1517285697207" expanded="true" signature="6462:6556" ph="select artis... youtube_music" />
               </folding>
             </state>
           </provider>
@@ -69,8 +72,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
@@ -266,14 +269,16 @@
           <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1517284911684" expanded="true" signature="3378:3407" ph="select title... " />
-            <marker date="1517284911684" expanded="true" signature="4369:4681" ph="select artis... artist" />
-            <marker date="1517284911684" expanded="true" signature="4390:4580" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4484:4579" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4606:4680" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4692:4878" ph="create table... youtube_flat" />
-            <marker date="1517284911684" expanded="true" signature="5568:5634" ph="select chann... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="6637:6731" ph="select artis... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="302:405" ph="create table... if" />
+            <marker date="1517285697207" expanded="true" signature="2277:2344" ph="insert into " />
+            <marker date="1517285697207" expanded="true" signature="3275:3304" ph="select title... " />
+            <marker date="1517285697207" expanded="true" signature="4220:4532" ph="select artis... artist" />
+            <marker date="1517285697207" expanded="true" signature="4241:4431" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4335:4430" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4457:4531" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4543:4729" ph="create table... youtube_flat" />
+            <marker date="1517285697207" expanded="true" signature="5419:5485" ph="select chann... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="6462:6556" ph="select artis... youtube_music" />
           </folding>
         </state>
       </provider>
@@ -294,14 +299,16 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1517284911684" expanded="true" signature="3378:3407" ph="select title... " />
-            <marker date="1517284911684" expanded="true" signature="4369:4681" ph="select artis... artist" />
-            <marker date="1517284911684" expanded="true" signature="4390:4580" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4484:4579" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4606:4680" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4692:4878" ph="create table... youtube_flat" />
-            <marker date="1517284911684" expanded="true" signature="5568:5634" ph="select chann... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="6637:6731" ph="select artis... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="302:405" ph="create table... if" />
+            <marker date="1517285697207" expanded="true" signature="2277:2344" ph="insert into " />
+            <marker date="1517285697207" expanded="true" signature="3275:3304" ph="select title... " />
+            <marker date="1517285697207" expanded="true" signature="4220:4532" ph="select artis... artist" />
+            <marker date="1517285697207" expanded="true" signature="4241:4431" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4335:4430" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4457:4531" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4543:4729" ph="create table... youtube_flat" />
+            <marker date="1517285697207" expanded="true" signature="5419:5485" ph="select chann... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="6462:6556" ph="select artis... youtube_music" />
           </folding>
         </state>
       </provider>
@@ -322,14 +329,16 @@
           <caret line="96" column="119" lean-forward="false" selection-start-line="96" selection-start-column="119" selection-end-line="96" selection-end-column="119" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1517284911684" expanded="true" signature="3378:3407" ph="select title... " />
-            <marker date="1517284911684" expanded="true" signature="4369:4681" ph="select artis... artist" />
-            <marker date="1517284911684" expanded="true" signature="4390:4580" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4484:4579" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4606:4680" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4692:4878" ph="create table... youtube_flat" />
-            <marker date="1517284911684" expanded="true" signature="5568:5634" ph="select chann... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="6637:6731" ph="select artis... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="302:405" ph="create table... if" />
+            <marker date="1517285697207" expanded="true" signature="2277:2344" ph="insert into " />
+            <marker date="1517285697207" expanded="true" signature="3275:3304" ph="select title... " />
+            <marker date="1517285697207" expanded="true" signature="4220:4532" ph="select artis... artist" />
+            <marker date="1517285697207" expanded="true" signature="4241:4431" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4335:4430" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4457:4531" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4543:4729" ph="create table... youtube_flat" />
+            <marker date="1517285697207" expanded="true" signature="5419:5485" ph="select chann... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="6462:6556" ph="select artis... youtube_music" />
           </folding>
         </state>
       </provider>
@@ -350,14 +359,16 @@
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1517284911684" expanded="true" signature="3378:3407" ph="select title... " />
-            <marker date="1517284911684" expanded="true" signature="4369:4681" ph="select artis... artist" />
-            <marker date="1517284911684" expanded="true" signature="4390:4580" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4484:4579" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4606:4680" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4692:4878" ph="create table... youtube_flat" />
-            <marker date="1517284911684" expanded="true" signature="5568:5634" ph="select chann... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="6637:6731" ph="select artis... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="302:405" ph="create table... if" />
+            <marker date="1517285697207" expanded="true" signature="2277:2344" ph="insert into " />
+            <marker date="1517285697207" expanded="true" signature="3275:3304" ph="select title... " />
+            <marker date="1517285697207" expanded="true" signature="4220:4532" ph="select artis... artist" />
+            <marker date="1517285697207" expanded="true" signature="4241:4431" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4335:4430" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4457:4531" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4543:4729" ph="create table... youtube_flat" />
+            <marker date="1517285697207" expanded="true" signature="5419:5485" ph="select chann... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="6462:6556" ph="select artis... youtube_music" />
           </folding>
         </state>
       </provider>
@@ -397,30 +408,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1650">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1517284911684" expanded="true" signature="3378:3407" ph="select title... " />
-            <marker date="1517284911684" expanded="true" signature="4369:4681" ph="select artis... artist" />
-            <marker date="1517284911684" expanded="true" signature="4390:4580" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4484:4579" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4606:4680" ph="select disti... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="4692:4878" ph="create table... youtube_flat" />
-            <marker date="1517284911684" expanded="true" signature="5568:5634" ph="select chann... youtube_music" />
-            <marker date="1517284911684" expanded="true" signature="6637:6731" ph="select artis... youtube_music" />
+            <element signature="e#390#405#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
-            <element signature="e#390#405#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1517285697207" expanded="true" signature="302:405" ph="create table... if" />
+            <marker date="1517285697207" expanded="true" signature="2277:2344" ph="insert into " />
+            <marker date="1517285697207" expanded="true" signature="3275:3304" ph="select title... " />
+            <marker date="1517285697207" expanded="true" signature="4220:4532" ph="select artis... artist" />
+            <marker date="1517285697207" expanded="true" signature="4241:4431" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4335:4430" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4457:4531" ph="select disti... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="4543:4729" ph="create table... youtube_flat" />
+            <marker date="1517285697207" expanded="true" signature="5419:5485" ph="select chann... youtube_music" />
+            <marker date="1517285697207" expanded="true" signature="6462:6556" ph="select artis... youtube_music" />
           </folding>
         </state>
       </provider>
