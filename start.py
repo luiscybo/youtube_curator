@@ -1,5 +1,5 @@
-client_id = '344435439619-decqk67e6d7p8j5bomntdua34dup7rnk.apps.googleusercontent.com'
-client_secret = 'vZniAjWRzVetiQ4MHIWjdSjH'
+client_id = ''
+client_secret = ''
 
 #!/usr/bin/python
 
